@@ -1,0 +1,24 @@
+git init
+
+git config user.email "ssaravind2000@gmail.com"
+           user.name "SadhuSaiAravind"
+
+git remote add origin " github repository url"
+
+git status
+
+git add -A
+
+git status
+
+git commit -m "git.task1"
+
+git push origin6 master
+git push -f origin6 master (-f represents force to push in repository)
+
+git branch "branch name"(b1)
+git cheackout b1
+b.txt --->commit
+      --->add
+git chekout master
+git merge b1
